@@ -63,5 +63,5 @@ def naming_system
       }
     }
   }
-  return hases
+  return hashes
 end
